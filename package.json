@@ -1,0 +1,16 @@
+{
+  "name": "honchotest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "honcho": "git+https://github.com/plcpeople/honcho.git",
+    "mcprotocol": "git+https://github.com/Steve-Mcl/mcprotocol.git",
+    "mysql": "^2.18.1"
+  }
+}
